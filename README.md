@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a 3rd year student at Queen's University👑 from Toronto🦉. I'm a passionate learner who's always willing to learn and work across different technologies and domains🤓. Currently working on my trading card collection tracker🗃️. <br />
+I'm a 3rd year student at Queen's University👑 from Toronto🦉. I'm a passionate learner who's always willing to learn and work across different technologies and domains🤓. Currently working on my trading card collection tracker🗃️. <br /> <br />
 Check out my portfolio: https://jjacobwow3.github.io/portfolio/
 
 ## Tech Stack
