@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a 3rd year student at Queen's University👑 with focus on software and game development🕹️. <br />
+I'm a 4th year student at Queen's University👑 with focus on software and game development🕹️. <br />
 I'm a passionate learner who's always willing to learn and work across different technologies and domains🤓. <br />
 Currently working on my trading card collection tracker🗃️ and learning cybersecurity on the side🔒. <br /> 
 <br />
