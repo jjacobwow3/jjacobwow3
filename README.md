@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a 4th year student at Queen's University👑 with focus on software and game development🕹️. <br />
+I'm a 4th year student at Queen's University👑 with focus on full-stack and game development🕹️. <br />
 I'm a passionate learner who's always willing to learn and work across different technologies and domains🤓. <br />
 Currently working on my trading card collection tracker🗃️ and learning cybersecurity on the side🔒. <br /> 
 <br />
@@ -16,10 +16,13 @@ Check out my portfolio: https://jjacobwow3.github.io/portfolio/
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRami_6HZTnAXIJjtjC7tsLnPb0QomAEIzwCQ&s)
+![Prolog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62m1xONCz80s531fIU17GFLkVvXSgzAPY7Q&s)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Php](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
